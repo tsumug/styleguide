@@ -13,9 +13,9 @@
 
 This repository is managed as monorepo.
 
-| Package                                              | Version |
-| :--------------------------------------------------- | :------ |
-| **[@tsumug/tslint-config](/packages/tslint-config)** |         |
+| Package                                              | Version                                                                |
+| :--------------------------------------------------- | :--------------------------------------------------------------------- |
+| **[@tsumug/tslint-config](/packages/tslint-config)** | ![npm version](https://badge.fury.io/js/%40tsumug%2Ftslint-config.svg) |
 
 ## Install
 
