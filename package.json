@@ -19,21 +19,13 @@
       "fixpack",
       "git add"
     ],
-    "*.md": [
-      "prettier --write",
-      "git add"
-    ],
-    "*.{css,scss,md}": [
+    "*.{css,scss,md,js,jsx}": [
       "prettier --write",
       "git add"
     ],
     "*.{ts,tsx}": [
       "prettier --write",
-      "tslint --fix -c packages/tslint-config/tslint.json",
-      "git add"
-    ],
-    "*.{js,jsx}": [
-      "prettier-eslint --write --eslint-config-path ./packages/eslint-config/index.js",
+      "tslint --fix",
       "git add"
     ]
   },

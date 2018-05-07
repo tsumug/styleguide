@@ -1,0 +1,12 @@
+{
+  "name": "@tsumug/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier -l 'tests/*.ts'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

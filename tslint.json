@@ -1,0 +1,3 @@
+{
+  "extends": "@tsumug/tslint-config"
+}

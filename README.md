@@ -1,4 +1,6 @@
-# config
+# styleguide
+
+[![Build Status](https://travis-ci.com/TMG-SK/styleguide.svg?branch=master)](https://travis-ci.com/TMG-SK/styleguide)
 
 ## Table of Contents
 
