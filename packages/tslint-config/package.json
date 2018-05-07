@@ -1,0 +1,19 @@
+{
+  "name": "@tsumug/tslint-config",
+  "version": "0.0.0",
+  "main": "tslint.json",
+  "author": "Tsumug Inc.",
+  "license": "MIT",
+  "repository": "ssh://git@github.com/TMG-SK/styleguide.git",
+  "dependencies": {
+    "tslint-config-prettier": "^1.12.0",
+    "tslint-config-standard": "^7.0.0",
+    "tslint-react": "^3.5.1"
+  },
+  "scripts": {
+    "test": "tslint test/**/*.ts{,x}"
+  },
+  "devDependencies": {
+    "@types/node": "^10.0.4"
+  }
+}
