@@ -15,9 +15,10 @@
 
 This repository is managed as monorepo.
 
-| Package                                              | Version                                                                |
-| :--------------------------------------------------- | :--------------------------------------------------------------------- |
-| **[@tsumug/tslint-config](/packages/tslint-config)** | ![npm version](https://badge.fury.io/js/%40tsumug%2Ftslint-config.svg) |
+| Package                                                  | Version                                                                  |
+| :------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **[@tsumug/tslint-config](/packages/tslint-config)**     | ![npm version](https://badge.fury.io/js/%40tsumug%2Ftslint-config.svg)   |
+| **[@tsumug/prettier-config](/packages/prettier-config)** | ![npm version](https://badge.fury.io/js/%40tsumug%2Fprettier-config.svg) |
 
 ## Install
 

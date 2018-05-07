@@ -1,6 +1,6 @@
 {
   "name": "@tsumug/tslint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "tslint.json",
   "author": "Tsumug Inc.",
   "license": "MIT",
