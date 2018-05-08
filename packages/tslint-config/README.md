@@ -9,6 +9,14 @@
 npm install -D @tsumug/tslint-config tslint
 ```
 
+## Usage
+
+```json
+{
+  "extends": "@tsumug/tslint-config"
+}
+```
+
 ## Tests
 
 ```sh
