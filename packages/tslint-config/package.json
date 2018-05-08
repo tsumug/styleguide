@@ -1,7 +1,7 @@
 {
   "name": "@tsumug/tslint-config",
   "description": "Tsumug TypeScript Linter rule",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tsumug Inc.",
   "dependencies": {
     "tslint-config-prettier": "^1.12.0",
