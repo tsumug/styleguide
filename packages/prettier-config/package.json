@@ -1,12 +1,17 @@
 {
   "name": "@tsumug/prettier-config",
+  "description": "Tsumug prettier rule",
   "version": "0.0.1",
-  "description": "",
+  "author": "Tsumug inc.",
+  "keywords": [
+    "config"
+  ],
+  "license": "MIT",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "prettier -l 'tests/*.ts'"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  }
 }
