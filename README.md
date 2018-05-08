@@ -23,11 +23,11 @@ This repository is managed as monorepo.
 
 ## Install
 
-    npm install
+    yarn install
 
 ## Tests
 
-    npm test
+    yarn test
 
 ## Contribute
 
