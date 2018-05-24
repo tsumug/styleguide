@@ -1,16 +1,16 @@
 {
   "name": "@tsumug/tslint-config",
-  "description": "Tsumug TypeScript Linter rule",
+  "description": "tsumug TypeScript Linter rule",
   "version": "0.1.0",
-  "author": "Tsumug Inc.",
+  "author": "tsumug Inc.",
   "dependencies": {
-    "tslint-config-prettier": "^1.13.0",
-    "tslint-config-standard": "^7.0.0",
-    "tslint-react": "^3.6.0"
+    "tslint-config-prettier": "1.13.0",
+    "tslint-config-standard": "7.0.0",
+    "tslint-react": "3.6.0"
   },
   "devDependencies": {
-    "@types/node": "^10.1.2",
-    "@types/react": "^16.3.14"
+    "@types/node": "10.1.2",
+    "@types/react": "16.3.14"
   },
   "license": "MIT",
   "main": "tslint.json",
