@@ -1,7 +1,7 @@
 {
   "name": "@tsumug/prettier-config",
   "description": "tsumug prettier rule",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "author": "tsumug inc.",
   "keywords": [
     "config"
