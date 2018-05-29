@@ -3911,9 +3911,9 @@ postcss-selector-parser@^3.1.0:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss-syntax@0.25.0:
-  version "0.25.0"
-  resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.25.0.tgz#5a77d170dbbf3ac53202287d557b0bb823a72405"
+postcss-syntax@0.26.1:
+  version "0.26.1"
+  resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.26.1.tgz#9c14f706c025af0ff3b1f56d433c60ac96ab093a"
 
 postcss-syntax@^0.9.0:
   version "0.9.1"
