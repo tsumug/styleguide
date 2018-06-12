@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "postcss": "6.0.22",
-    "postcss-syntax": "0.27.0",
+    "postcss-syntax": "0.28.0",
     "react": "16.4.0",
     "styled-components": "3.3.2",
     "stylelint": "9.2.1",
