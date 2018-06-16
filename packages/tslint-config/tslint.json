@@ -6,7 +6,6 @@
   ],
   "rules": {
     "jsx-boolean-value": false,
-    "jsx-no-bind": false,
     "jsx-no-lambda": false,
     "jsx-no-multiline-js": false,
     "no-console": true,
