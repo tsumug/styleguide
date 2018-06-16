@@ -1,7 +1,7 @@
 {
   "name": "@tsumug/stylelint-config",
   "description": "tsumug style linter rule",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "tsumug Inc.",
   "dependencies": {
     "stylelint-config-standard": "18.2.0",
