@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "author": "tsumug Inc.",
   "dependencies": {
-    "tslint-config-prettier": "1.13.0",
+    "tslint-config-prettier": "1.14.0",
     "tslint-config-standard": "7.1.0",
     "tslint-react": "3.6.0"
   },
