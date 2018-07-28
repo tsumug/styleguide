@@ -3503,7 +3503,11 @@ postcss-styled@^0.31.0:
   version "0.31.0"
   resolved "https://registry.yarnpkg.com/postcss-styled/-/postcss-styled-0.31.0.tgz#ab532a2b3c469dfcca306a7623c4d4a98bb077d5"
 
-postcss-syntax@0.31.0, postcss-syntax@^0.31.0:
+postcss-syntax@0.32.0:
+  version "0.32.0"
+  resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.32.0.tgz#038a9a5a11d488709e8d5402a12007bc3fd0a77b"
+
+postcss-syntax@^0.31.0:
   version "0.31.0"
   resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.31.0.tgz#13d955c705d339595d10a19efa4a1bee82dfb78f"
 
