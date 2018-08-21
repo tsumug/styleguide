@@ -12,7 +12,7 @@
     "postcss": "7.0.2",
     "postcss-syntax": "0.32.0",
     "react": "16.4.2",
-    "styled-components": "3.4.2",
+    "styled-components": "3.4.3",
     "stylelint": "9.4.0",
     "typescript-styled-plugin": "0.10.0"
   },
