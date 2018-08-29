@@ -9,7 +9,7 @@
     "tslint-react": "3.6.0"
   },
   "devDependencies": {
-    "@types/node": "10.7.1",
+    "@types/node": "10.9.3",
     "@types/react": "16.4.12"
   },
   "license": "MIT",
