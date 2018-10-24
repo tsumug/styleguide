@@ -4,6 +4,7 @@
   "version": "0.4.0",
   "author": "tsumug Inc.",
   "dependencies": {
+    "@types/styled-components": "^4.0.2",
     "stylelint-config-standard": "18.2.0",
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "1.5.0"
@@ -12,7 +13,7 @@
     "postcss": "7.0.5",
     "postcss-syntax": "0.34.0",
     "react": "16.5.2",
-    "styled-components": "3.4.10",
+    "styled-components": "4.0.2",
     "stylelint": "9.6.0",
     "typescript-styled-plugin": "0.12.0"
   },
