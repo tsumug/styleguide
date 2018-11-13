@@ -12,7 +12,7 @@
   "devDependencies": {
     "postcss": "7.0.5",
     "postcss-syntax": "0.34.0",
-    "react": "16.6.1",
+    "react": "16.6.3",
     "styled-components": "4.1.1",
     "stylelint": "9.8.0",
     "typescript-styled-plugin": "0.12.0"
