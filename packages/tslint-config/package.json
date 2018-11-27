@@ -9,8 +9,13 @@
     "tslint-react": "3.6.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@types/node": "10.12.10",
     "@types/react": "16.7.7"
+=======
+    "@types/node": "10.12.7",
+    "@types/react": "latest"
+>>>>>>> :react: Update @types/react version
   },
   "license": "MIT",
   "main": "tslint.json",
