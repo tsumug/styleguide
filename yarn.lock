@@ -855,16 +855,9 @@
   dependencies:
     "@types/react" "*"
 
-<<<<<<< HEAD
 "@types/react@*", "@types/react@16.7.7":
   version "16.7.7"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.7.7.tgz#1e5e23e7dd922968ed4b484cdec00a5402c9f31b"
-=======
-"@types/react@*", "@types/react@latest":
-  version "16.7.7"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.7.7.tgz#1e5e23e7dd922968ed4b484cdec00a5402c9f31b"
-  integrity sha512-dJiq7CKxD1XJ/GqmbnsQisFnzG4z5lntKBw9X9qeSrguxFbrrhGa8cK9s0ONBp8wL1EfGfofEDVhjen26U46pw==
->>>>>>> :react: Update @types/react version
   dependencies:
     "@types/prop-types" "*"
     csstype "^2.2.0"
@@ -872,10 +865,6 @@
 "@types/styled-components@^4.0.2":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-4.1.1.tgz#1a9f8ebff7ee5cbc9ddc08b486e55e5a152bb408"
-<<<<<<< HEAD
-=======
-  integrity sha512-ye+XXSkaqs7BgCiQx4NQRIUnqo8LDrkRazE9qvBTG//rdAaHH77xshKE3OcWwVuLq283xH2wUW8C8z3eh1l+Wg==
->>>>>>> :react: Update @types/react version
   dependencies:
     "@types/node" "*"
     "@types/react" "*"
