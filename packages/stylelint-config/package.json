@@ -10,7 +10,7 @@
     "stylelint-processor-styled-components": "1.5.1"
   },
   "devDependencies": {
-    "postcss": "7.0.11",
+    "postcss": "7.0.13",
     "postcss-syntax": "0.34.0",
     "react": "16.7.0",
     "styled-components": "4.1.3",
