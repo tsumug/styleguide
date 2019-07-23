@@ -703,9 +703,9 @@
     inquirer "^6.2.0"
     npmlog "^4.1.2"
 
-"@lerna/publish@3.16.2":
-  version "3.16.2"
-  resolved "https://registry.yarnpkg.com/@lerna/publish/-/publish-3.16.2.tgz#c3120f962ac2803f7263355222258c24ea62e99a"
+"@lerna/publish@3.16.3":
+  version "3.16.3"
+  resolved "https://registry.yarnpkg.com/@lerna/publish/-/publish-3.16.3.tgz#35f199e82cc08931f352ead6b3269d72389e0e48"
   dependencies:
     "@evocateur/libnpmaccess" "^3.1.2"
     "@evocateur/npm-registry-fetch" "^4.0.0"
@@ -3562,9 +3562,9 @@ lerna-changelog@0.8.2:
     string.prototype.padend "^3.0.0"
     yargs "^11.0.0"
 
-lerna@3.16.2:
-  version "3.16.2"
-  resolved "https://registry.yarnpkg.com/lerna/-/lerna-3.16.2.tgz#e1c59df2c28348d0b303da666eb36b87649560cb"
+lerna@3.16.3:
+  version "3.16.3"
+  resolved "https://registry.yarnpkg.com/lerna/-/lerna-3.16.3.tgz#c786951ea1e0567fa6b89988ff6283b6f8bf359f"
   dependencies:
     "@lerna/add" "3.16.2"
     "@lerna/bootstrap" "3.16.2"
@@ -3578,7 +3578,7 @@ lerna@3.16.2:
     "@lerna/init" "3.16.0"
     "@lerna/link" "3.16.2"
     "@lerna/list" "3.16.0"
-    "@lerna/publish" "3.16.2"
+    "@lerna/publish" "3.16.3"
     "@lerna/run" "3.16.0"
     "@lerna/version" "3.16.2"
     import-local "^2.0.0"
