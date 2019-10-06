@@ -15,7 +15,7 @@
     "react": "16.10.2",
     "styled-components": "4.4.0",
     "stylelint": "9.10.1",
-    "typescript-styled-plugin": "0.13.0"
+    "typescript-styled-plugin": "0.14.0"
   },
   "keywords": [],
   "license": "MIT",
