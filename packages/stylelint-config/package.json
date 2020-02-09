@@ -5,7 +5,7 @@
   "author": "tsumug Inc.",
   "dependencies": {
     "@types/styled-components": "^4.0.2",
-    "stylelint-config-standard": "18.3.0",
+    "stylelint-config-standard": "20.0.0",
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "1.8.0"
   },
